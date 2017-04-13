@@ -1,0 +1,11 @@
+{
+  "name": "konami-rickroll",
+  "version": "1.0.0",
+  "description": "easter egg",
+  "main": "index.js",
+  "repository": "git+https://github.com/tslater3/konami-rickroll",
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "^2.1.4"
+  }
+}
