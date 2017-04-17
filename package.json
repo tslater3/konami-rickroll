@@ -1,11 +1,12 @@
 {
   "name": "konami-rickroll",
   "version": "1.0.0",
-  "description": "easter egg",
+  "description": "easter egg (credit to https://nthitz.github.io/turndownforwhatjs/ for providing the base code)",
   "main": "index.js",
   "repository": "git+https://github.com/tslater3/konami-rickroll",
+  "author": "trevor.s.slater@gmail.com",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "jquery": "^2.1.4"
   }
 }
